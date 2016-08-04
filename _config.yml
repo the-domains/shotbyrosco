@@ -1,4 +1,3 @@
-layout_spectrum: 0.9141258276067674
 typography_spectrum: 0.8221990244928747
 color:
   brandStrength: 0.3251243669074029
@@ -11,4 +10,9 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
+layout_spectrum: 0.9141258276067674
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/8eac2c51-88c9-4fc1-bc55-40298a96d58d.jpg
 name: ShotbyRosco
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/88f81eec-56eb-4092-b113-06bbe31dce4d.png
