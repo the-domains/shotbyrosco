@@ -1,0 +1,14 @@
+layout_spectrum: 0.9141258276067674
+typography_spectrum: 0.8221990244928747
+color:
+  brandStrength: 0.3251243669074029
+  lightness: 0.1221061609685421
+  saturation: 0.5674267741851509
+  rhythmicContrast: 0.49593482562340796
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: ShotbyRosco
